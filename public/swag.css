@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(6, 24, 56);
+  margin: 0;
+}
+
+.content {
+  padding: 4rem;
+}
+
+h1,
+a,
+li,
+p,
+h2,
+h3,
+h4,
+h5 {
+  color: white;
+}

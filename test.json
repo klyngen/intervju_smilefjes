@@ -1,0 +1,29 @@
+[
+  {
+    "tilsynsbesoektype": "0",
+    "poststed": "OSLO",
+    "sakref": "2016/237290",
+    "tilsynsobjektid": "Z1006052054217381127CMGFX_Tilsynsobjekt",
+    "orgnummer": "972220639",
+    "postnr": "0485",
+    "dato": "06122016",
+    "navn": "Baker Hansen A/S",
+    "tema1_no": "Rutiner og ledelse",
+    "tema3_nn": "Mat-handtering og tillaging",
+    "tema1_nn": "Rutiner og leiing",
+    "tema3_no": "Mat-håndtering og tilberedning",
+    "tilsynid": "Z1612061453011670239RYTUE_TilsynAvtale",
+    "adrlinje1": "VITAMINVEIEN 7",
+    "karakter1": "0",
+    "adrlinje2": "",
+    "karakter2": "1",
+    "karakter3": "0",
+    "karakter4": "0",
+    "total_karakter": "1",
+    "tema4_no": "Merking og sporbarhet",
+    "tema4_nn": "Merking og sporbarheit",
+    "tema2_no": "Lokaler og utstyr",
+    "status": "0",
+    "tema2_nn": "Lokaler og utstyr"
+  }
+]

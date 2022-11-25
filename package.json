@@ -1,0 +1,16 @@
+{
+  "name": "intervju_node",
+  "version": "1.0.0",
+  "description": "A simple starter for a javascript interiew",
+  "main": "index.mjs",
+  "repository": "https://www.github.com/klyngen/interview_node",
+  "author": "Martin Klingenberg <martin.klingenberg@alv.no>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "4.18.1"
+  },
+  "scripts": {
+    "start": "node ."
+  }
+}
