@@ -13,7 +13,7 @@ const app = express();
 app.use(express.static("public"));
 
 app.get("/test", (req, res) => {
-  res.send({ a: "Express er veldig lett" });
+  res.send({ a: "Express er moderat lett" });
 });
 
 app.get("/best", (req, res) => {});
